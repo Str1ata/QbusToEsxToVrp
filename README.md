@@ -985,7 +985,7 @@ QBCore.Functions.GetClosestObject()
 
 # MERKEZ VRP
 ```lua
-
+GetClosestObjectOfType()
 ```
 
 # ALTAKİ ESX
